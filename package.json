@@ -1,0 +1,17 @@
+{
+  "name": "example1",
+  "version": "0.0.0",
+  "description": "learning",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "uday",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "electron-prebuilt": "~1.0.2"
+  },
+  "dependencies": {
+    "electron-sqlite": "0.0.1"
+  }
+}
